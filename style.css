@@ -1,0 +1,41 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-color: #606060e5;
+}
+
+#projects {
+  background-color: #606060e5;
+}
+
+/* footer  */
+footer .socials {
+  padding: 1rem 0;
+}
+
+footer .socials a {
+  color: white;
+  margin: 1rem;
+}
+
+footer .links {
+  margin-bottom: 1rem;
+}
+
+footer .links a {
+  color: white;
+  padding: 0.5rem 0.8rem;
+  text-decoration: none;
+}
+
+footer h5 {
+  color: white;
+}
+
+footer .credit {
+  color: white;
+}
+
+.feather-size3 {
+  width: 1.5rem;
+  height: 1.5rem;
+}
